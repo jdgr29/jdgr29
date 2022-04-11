@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jdaniel96
-- 👀 I’m interested in Web Development/ React Js/ Angulgar Js/ Node Js/ Next Js/ Pythong/ mySQL/ Tailwing/ Bootstrap....
-- 🌱 I’m currently learning ... Python/Front-end/Back-end/React/Node Js/HTML 5/CSS 3/ JavaScript
+- 👀 I’m interested in Web Development/ React Js/ Node Js/Python/ mySQL/ Tailwing/ Bootstrap....
+- 🌱 I’m currently learning ... Python/Front-end/React Js/ React Bootstrap/ CSS / HTML
 - 💞️ I’m looking to collaborate on projects involving Web Development
 - 📫 How to reach me ...Jdgr9629@gmail.com
 
