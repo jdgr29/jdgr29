@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development/ React Js/ Node Js/Python/ mySQL/MongoDB/ Tailwing/ Bootstrap 5 / Next.js....
 - 🌱 I’m currently learning ... Python/Front-end/React Js/ React Bootstrap/ CSS / HTML
 - 💞️ I’m looking to collaborate on projects involving Web Development
-- 📫 How to reach me ...Jdgr9629@gmail.com
+- 📫 How to reach me ...juandaniel9619@gmail.com
 
 <!---
 jdaniel96/jdaniel96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
