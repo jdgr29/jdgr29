@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jdaniel96
 - 👀 I’m interested in Web Development/ React Js/ Node Js/Python/ mySQL/MongoDB/ Tailwing/ Bootstrap 5 / Next.js....
-- 🌱 I’m currently learning ... Python/Front-end/React Js/ React Bootstrap/ CSS / HTML
-- 💞️ I’m looking to collaborate on projects involving Web Development
+- 🌱 I’m currently learning ... back-end dev...
+- 💞️ I’m looking to collaborate on projects involving Web Development and web3
 - 📫 How to reach me ...juandaniel9619@gmail.com
 
 <!---
