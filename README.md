@@ -7,8 +7,8 @@
 
 # A bit about me:
 
- I am a front-end (with back-end skills) who likes to know how everything works behind the scenes.
- I like to build web applications using React Js, Strapi and REST APIs using Node js and Express with MongoDB!
+ I am a webdev who likes to know how everything works behind the scenes.
+ I like to build web applications using React Js, Strapi and REST APIs or using Node js and Express with MongoDB!
 
 
 
