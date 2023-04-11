@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @jdaniel96
-- 👀 I’m interested in Web Development....
-- 🌱 I’m currently learning ... back-end dev...
-- 💞️ I’m looking to collaborate on projects involving Web Development and web3
+- 👀 I’m interested in absolutely everything
 - 📫 How to reach me ...juandaniel9619@gmail.com
 
 <!---
