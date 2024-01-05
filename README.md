@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">I am a Web Developer</h3>
+<h3 align="center">I am a coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdgr29&label=Profile%20views&color=0e75b6&style=flat" alt="jdgr29" /> </p>
 
@@ -9,15 +9,15 @@
 
 - 🔭 I’m currently working on **a react native (expo) transfer app**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Good Practices and Project Management**
 
-- 👯 I’m looking to collaborate on **projects involving react js**
+- 👯 I’m looking to collaborate on **projects involving JavaScript, React, Vite, Node Js, Express JS, React Native**
 
 - 💬 Ask me about **react, front-end, Javascript**
 
 - 📫 How to reach me **juandaniel9619@gmail.com**
 
-- ⚡ Fun fact **I like memes**
+- ⚡ Fun fact **Love memes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
