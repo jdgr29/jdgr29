@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Good Practices and Project Management**
 
-- 👯 I’m looking to collaborate on **projects involving JavaScript, React, Vite, Node Js, Express JS, React Native**
+- 👯 I’m looking to collaborate on **projects involving JavaScript, React, Vite, Node Js, Express JS, React Native, Next js**
 
 - 💬 Ask me about **react, front-end, Javascript**
 
