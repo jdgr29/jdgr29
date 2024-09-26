@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **a react native (expo) transfer app**
+- 🔭 I’m currently working on ** An Amazing React Native(expo) app for entrepreneurs!**
 
-- 🌱 I’m currently learning **Python Ecosystem**
+- 🌱 I’m currently learning **Rust Programming Language**
 
-- 👯 I’m looking to collaborate on **projects involving JavaScript, React, Vite, Node Js, Express JS, React Native, Next js**
+- 👯 I’m looking to collaborate on **projects involving JavaScript, React, Vite, Node Js, Express JS, React Native, Next js, TypeScript, Python**
 
 - 📫 How to reach me **juandaniel9619@gmail.com**
 **
