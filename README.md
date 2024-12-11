@@ -1,11 +1,12 @@
 # 👋 Hi, I’m Daniel!
 
-I'm a passionate full-stack developer specializing in JavaScript/TypeScript, React Native, and backend development with Node.js and Express. I love building innovative solutions, especially around blockchain and realestate tech.
+I'm a passionate full-stack developer specializing in JavaScript/TypeScript, React Native and Expo, Back-end development with Node.js and Express. I love fixing problems as well as prevent them!
 
 ## 🛠️ Technologies I work with:
 
-- **Frontend:** JavaScript/TypeScript, React, React Native, Astro, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express.js, Supabase, Solana blockchain
+- **Frontend:** JavaScript/TypeScript, React, React Native, Astro, Next.js, Tailwind CSS, HTML, CSS
+- **Backend:** Node.js, Express.js, Supabase and Deno!
+- **Web3:** Solana Web 3
 - **Other:** Git, Supabase, Sanity.io, Mapbox, Cloudinary
 
 ## 🚀 Current Projects:
