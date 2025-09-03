@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Daniel!
 
-I'm a passionate full-stack developer specializing in JavaScript/TypeScript, React Native and Expo, Back-end development with Node.js and Express. I love fixing problems as well as prevent them!
+I'm a passionate full-stack developer specializing in JavaScript/TypeScript, React Native and Expo, Back-end development with Node.js and Express. 
 
 ## 🛠️ Technologies I work with:
 
