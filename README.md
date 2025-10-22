@@ -5,14 +5,13 @@ I'm a passionate full-stack developer, I love JavaScript/TypeScript, React Nativ
 ## 🛠️ Technologies I work with:
 
 - **Frontend:** JavaScript/TypeScript, React, React Native, Astro, Next.js, Tailwind CSS, HTML, CSS
-- **Backend:** Node.js, Express.js, Supabase and Deno!
+- **Backend:** Node.js, Express.js, Supabase, Deno and Nest.JS!
 - **Web3:** Solana Web 3
 - **Other:** Git, Supabase, Sanity.io, Mapbox, Cloudinary
 
 ## 🚀 Current Projects:
 
-- **HH**: A platform where users can post business ideas and startups, by creating and trading tokens on the Solana blockchain.
-- **Meta Punta Cana**: A real estate web application where users can explore properties for sale and rent, with a client management dashboard.
+- **Something very cool I can't speak about just yet**
 
 ## 🏆 Achievements:
 
