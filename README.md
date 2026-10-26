@@ -7,13 +7,9 @@ I'm a passionate full-stack developer, and I like building and maintaining proje
 - **Frontend:** JavaScript/TypeScript, React, React Native, Astro, Next.js, Tailwind CSS, HTML, CSS
 - **Backend:** Node.js, Express.js, Supabase, Deno and Nest.JS!
 - **Web3:** Solana Web 3
-- **Other:** Git, Supabase, Sanity.io, Mapbox, Cloudinary
+- **Other:** Git, Supabase, Sanity.io, Mapbox, Cloudinary, Google Cloud, Docker
 
-## 🚀 Current Projects:
-
-- **Something very cool I can't speak about just yet**
-
-## 🏆 Achievements:
+## Stuff I've done:
 
 - Built a custom backend solution integrating Solana blockchain for token management.
 - Built a transaction abstraction in solana where users can send/receive token without owning SOL themselves
@@ -21,15 +17,8 @@ I'm a passionate full-stack developer, and I like building and maintaining proje
 
 ## 🤌🏽 I am learning:
 
-- Python/Django
 - Rust
 - AWS
-
-## ⚡ Fun fact:
-
-I love binge-watching sci-fi shows like 'The Expanse', Horror themed shows and exploring the possibilities of AI-driven apps.
-
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdgr29&show_icons=true&theme=dark)
 
 
 <!---
